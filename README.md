@@ -9,7 +9,7 @@
  - :pencil2:	[Medium](https://medium.com/@connkat)
 
 ### Today 
- - :construction_worker_woman:   Freelancing and building startups
+ - :test_tube:   Engineering Lead at [Metalab](http://metalab.com)
  - :woman_student:   Creating free courses for developers (launching soon!)
  - :couple_with_heart_woman_woman:   DEIB Advocate
  - :classical_building:   Learning more about System Design & Architecture
@@ -20,6 +20,7 @@
  - :money_with_wings:	Freelanced for a hot min.
  - :woman_teacher:	Former Instructor && Mentor at [Lighthouse Labs](http://lighthouselabs.ca)
  - :palm_tree:   Fullstack Developer at [Checkfront](http:checkfront.com): Payments, APIs, Internal Tools
+ - :construction_worker_woman:   Fractional CTO/Engineering Leadership/Web Development Contract Work
 
 
 ![Snake animation](https://raw.githubusercontent.com/connkat/connkat/output/github-contribution-grid-snake-dark.svg)
